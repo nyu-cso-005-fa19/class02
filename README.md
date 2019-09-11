@@ -48,11 +48,3 @@ Inspect the program `src/scopes.c`.
 
 1. For each variable `a` defined in the program state its scope. Will the program run? Why or why not? Run the program and verify your result.
 2. Now uncomment the commented out line. Now for each variable `a` defined in the program state its scope. Will the program run? Why or why not? Run the program and verify your results.
-
-## Exercise 3: Expressions
-
-Inspect the program `src/expressions.c`.
-
-1. For each print statement try to figure out the result of what is shown on the screen. Hint: You might need an ASCII table for ``res_char``.
-2. Run the program and verify your results.
-
